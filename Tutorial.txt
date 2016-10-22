@@ -1,0 +1,5 @@
+Para usar c# programaremos en ficheros .cs
+
+Para ejecutarlos crearemos un exe con el comando mcs nombreArchivo.cs
+
+Una vez tengamos el exe lo ejecutamos con mono nombreArchivo.exe
