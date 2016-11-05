@@ -1,0 +1,5 @@
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Números Pares e impares\bin\Debug\Números Pares e impares.exe.config
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Números Pares e impares\bin\Debug\Números Pares e impares.exe
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Números Pares e impares\bin\Debug\Números Pares e impares.pdb
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Números Pares e impares\obj\Debug\Números Pares e impares.exe
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Números Pares e impares\obj\Debug\Números Pares e impares.pdb

@@ -1,0 +1,5 @@
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Operadores Aritméticos\bin\Debug\Operadores Aritméticos.exe.config
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Operadores Aritméticos\bin\Debug\Operadores Aritméticos.exe
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Operadores Aritméticos\bin\Debug\Operadores Aritméticos.pdb
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Operadores Aritméticos\obj\Debug\Operadores Aritméticos.exe
+C:\Users\Federico\Desktop\C# Aulafacil\Tutorial Aulafacil\Operadores Aritméticos\obj\Debug\Operadores Aritméticos.pdb
